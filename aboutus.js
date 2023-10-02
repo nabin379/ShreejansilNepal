@@ -1,8 +1,10 @@
 import React from 'react'
 
 const aboutus = () => {
+  const data= 5;
+  const data2= data*5;
   return (
-    <div>aboutus</div>
+    <div>{data2}</div>
   )
 }
 
